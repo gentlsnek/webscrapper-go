@@ -1,7 +1,7 @@
-google.com, youtube.com, facebook.com, wikipedia.org, instagram.com, bing.com, reddit.com, x.com, chatgpt.com, yandex.ru, whatsapp.com, amazon.com, yahoo.com, yahoo.co.jp, weather.com, duckduckgo.com, netflix.com, linkedin.com, tiktok.com, twitter.com, microsoft.com, 
-office.com, live.com, zoom.us, canva.com, pinterest.com, twitch.tv, roblox.com, openai.com, stackoverflow.com, github.com, apple.com, adobe.com, wordpress.com, blogger.com, medium.com, quora.com, tripadvisor.com, booking.com, airbnb.com, indeed.com, glassdoor.com, dropbox.com, drive.google.com, docs.google.com, slideshare.net, 
-slides.google.com, 
-maps.google.com, translate.google.com, scholar.google.com, 
-news.google.com, finance.yahoo.com, msn.com, outlook.com, mail.yahoo.com, protonmail.com, zoho.com, weebly.com, wix.com, squarespace.com, shopify.com, etsy.com, ebay.com, aliexpress.com, shein.com, temu.com, walmart.com, target.com, bestbuy.com, homedepot.com, lowes.com, costco.com, ikea.com, flipkart.com, myntra.com, snapdeal.com, 
-ajio.com, paytm.com, phonepe.com, upi.com, hdfcbank.com, icicibank.com, sbi.co.in, axisbank.com, kotak.com, yesbank.in, rbi.org.in, irctc.co.in, makemytrip.com, yatra.com, cleartrip.com, ixigo.com, redbus.in, 
-zomato.com, swiggy.com, dominos.co.in, pizzahut.co.in, mcdelivery.co.in, ola.in, uber.com, blablacar.in, zoomcar.com, drivezy.com, revv.co.in
+google.com,youtube.com,facebook.com,wikipedia.org,instagram.com,bing.com,reddit.com,x.com,chatgpt.com,yandex.ru,whatsapp.com,amazon.com,yahoo.com,yahoo.co.jp,weather.com,duckduckgo.com,netflix.com,linkedin.com,tiktok.com,twitter.com,microsoft.com,
+office.com,live.com,zoom.us,canva.com,pinterest.com,twitch.tv,roblox.com,openai.com,stackoverflow.com,github.com,apple.com,adobe.com,wordpress.com,blogger.com,medium.com,quora.com,tripadvisor.com,booking.com,airbnb.com,indeed.com,glassdoor.com,dropbox.com,drive.google.com,docs.google.com,slideshare.net,
+slides.google.com,
+maps.google.com,translate.google.com,scholar.google.com,
+news.google.com,finance.yahoo.com,msn.com,outlook.com,mail.yahoo.com,protonmail.com,zoho.com,weebly.com,wix.com,squarespace.com,shopify.com,etsy.com,ebay.com,aliexpress.com,shein.com,temu.com,walmart.com,target.com,bestbuy.com,homedepot.com,lowes.com,costco.com,ikea.com,flipkart.com,myntra.com,snapdeal.com,
+ajio.com,paytm.com,phonepe.com,upi.com,hdfcbank.com,icicibank.com,sbi.co.in,axisbank.com,kotak.com,yesbank.in,rbi.org.in,irctc.co.in,makemytrip.com,yatra.com,cleartrip.com,ixigo.com,redbus.in,
+zomato.com,swiggy.com,dominos.co.in,pizzahut.co.in,mcdelivery.co.in,ola.in,uber.com,blablacar.in,zoomcar.com,drivezy.com,revv.co.in

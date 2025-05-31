@@ -12,6 +12,6 @@ func main() {
 
 	websites := functions.Readtext(filepath)
 
-	fmt.Println(websites)
+	functions.ReadWebsite(websites)
 
 }

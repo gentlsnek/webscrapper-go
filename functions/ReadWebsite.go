@@ -8,12 +8,13 @@ import (
 	//"github.com/cilium/ebpf/link"
 )
 
+// no outputs for some reason, need fix
 func ReadWebsite(sites []string) {
 
 	c := make(chan string)
 
 	for _, list := range sites {
-		go checkLink("http://"+list, c)
+		go checkLink("http://www."+list, c)
 	}
 
 }
@@ -25,7 +26,9 @@ func checkLink(link string, c chan string) {
 		fmt.Println("could not establish connection to", err)
 		c <- link
 		return
+	} else {
+		fmt.Println(status)
+		fmt.Println(link, " works fune")
+		c <- link
 	}
-	fmt.Println(status)
-	c <- link
 }
