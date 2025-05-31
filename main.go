@@ -1,7 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"webscrapper-go/functions"
+)
 
-func main(){
-	fmt.Println("Hello World!")
+func main() {
+	var filepath string
+	fmt.Println("Enter file path")
+	fmt.Scan(&filepath)
+
+	websites := functions.Readtext(filepath)
+
+	fmt.Println(websites)
+
 }
